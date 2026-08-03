@@ -1,79 +1,94 @@
 # Hi, I'm Shailja Shrivastava 👋
 
-### Java Full Stack Developer • Spring Boot • Microservices • React • AWS
+### Java & Python Backend Developer • Spring Boot • FastAPI • Microservices • AWS
 
-Java Full Stack Developer with 9+ years of software development experience building scalable, high-performance applications. Experienced in designing RESTful APIs, developing microservices, building responsive front-end applications, and deploying cloud-native solutions.
+Backend Software Engineer with 9+ years of software development experience building scalable, high-performance, and cloud-native applications. Experienced in designing RESTful APIs, developing microservices, building distributed systems, and deploying production-ready applications on AWS.
 
-Skilled in Java, Spring Boot, React, AWS, PostgreSQL, Docker, Kubernetes, and modern software engineering practices. Passionate about writing clean, maintainable code and building secure, scalable enterprise applications.
+Skilled in Java, Python, Spring Boot, FastAPI, Django, AWS, PostgreSQL, Docker, Kubernetes, Kafka, and modern software engineering practices. Passionate about writing clean, maintainable code and building secure, scalable enterprise applications.
 
 ---
 
 # 💼 Expertise
 
-### Backend Development
+## Backend Development
 
-* Java 17/21
-* Spring Boot
-* Spring MVC
-* Spring Security
-* Spring Data JPA
-* Hibernate
-* REST API Development
-* Microservices Architecture
-* JWT Authentication
-* Maven & Gradle
+- Java 17/21
+- Python
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- FastAPI
+- Django
+- REST API Development
+- GraphQL
+- Microservices Architecture
+- JWT Authentication
+- OAuth2
+- Maven & Gradle
+- Async Programming
 
-### Frontend Development
+## Frontend Development
 
-* React.js
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* Responsive UI Development
-* REST API Integration
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Responsive UI Development
+- REST API Integration
 
-### Databases
+## Databases
 
-* PostgreSQL
-* MySQL
-* SQL
-* Database Design
-* Query Optimization
-* JPA/Hibernate
-* Transactions
-* Indexing
+- PostgreSQL
+- MySQL
+- SQL
+- Redis
+- Database Design
+- Query Optimization
+- JPA/Hibernate
+- SQLAlchemy
+- Transactions
+- Indexing
 
-### Cloud & DevOps
+## Cloud & DevOps
 
-* AWS
-* Docker
-* Kubernetes
-* Jenkins
-* CI/CD Pipelines
-* Git
-* GitHub
-* Linux
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
+- Git
+- GitHub
+- Linux
+- Nginx
 
-### Messaging & Distributed Systems
+## Messaging & Distributed Systems
 
-* Apache Kafka
-* RabbitMQ
-* WebSockets
-* Event-Driven Architecture
-* Distributed Systems
-* Asynchronous Communication
+- Apache Kafka
+- RabbitMQ
+- WebSockets
+- Event-Driven Architecture
+- Distributed Systems
+- Asynchronous Communication
+- Saga Pattern
+- Outbox Pattern
 
-### Software Engineering
+## Software Engineering
 
-* Object-Oriented Programming
-* SOLID Principles
-* Design Patterns
-* Data Structures & Algorithms
-* Multithreading
-* Concurrency
-* Exception Handling
-* Agile & Scrum
+- Object-Oriented Programming
+- SOLID Principles
+- Design Patterns
+- Data Structures & Algorithms
+- Multithreading
+- Concurrency
+- Async Programming
+- Unit Testing
+- Integration Testing
+- Exception Handling
+- Agile & Scrum
 
 ---
 
@@ -81,63 +96,85 @@ Skilled in Java, Spring Boot, React, AWS, PostgreSQL, Docker, Kubernetes, and mo
 
 ## Languages
 
-`Java` • `JavaScript` • `TypeScript` • `SQL` • `HTML` • `CSS`
+`Java` • `Python` • `JavaScript` • `TypeScript` • `SQL` • `HTML` • `CSS`
 
-## Backend
+## Java Backend
 
-* Spring Boot
-* Spring MVC
-* Spring Security
-* Spring Data JPA
-* Hibernate
-* REST APIs
-* Microservices
-* JWT
-* Maven
-* Gradle
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Microservices
+- JWT
+- OAuth2
+- Maven
+- Gradle
+
+## Python Backend
+
+- FastAPI
+- Django
+- Flask
+- SQLAlchemy
+- Pydantic
+- Celery
+- Alembic
+- AsyncIO
 
 ## Frontend
 
-* React.js
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
+- React.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
 
 ## Database
 
-* PostgreSQL
-* MySQL
+- PostgreSQL
+- MySQL
+- Redis
 
 ## Cloud & DevOps
 
-* AWS
-* Docker
-* Kubernetes
-* Jenkins
-* Git
-* GitHub
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Git
+- GitHub
+
+## Messaging
+
+- Apache Kafka
+- RabbitMQ
+- WebSockets
 
 ## Tools
 
-* IntelliJ IDEA
-* VS Code
-* Postman
-* Swagger
-* JIRA
+- IntelliJ IDEA
+- PyCharm
+- VS Code
+- Postman
+- Swagger / OpenAPI
+- JIRA
 
 ---
 
 # 📊 Highlights & Achievements
 
-* Developed scalable REST APIs using Spring Boot and Microservices architecture.
-* Built secure applications with Spring Security and JWT authentication.
-* Designed and optimized relational databases using PostgreSQL and MySQL.
-* Developed responsive user interfaces using React.js.
-* Worked with Docker and Kubernetes for containerized deployments.
-* Integrated Kafka-based asynchronous messaging for distributed systems.
-* Followed Agile methodologies with Git-based collaborative development.
-* Strong understanding of software design principles, clean architecture, and performance optimization.
+- Developed scalable REST APIs using Spring Boot, FastAPI, and Microservices architecture.
+- Built secure enterprise applications with Spring Security, OAuth2, and JWT authentication.
+- Designed and optimized relational databases using PostgreSQL, MySQL, and Redis.
+- Developed responsive user interfaces using React.js.
+- Built containerized applications using Docker and Kubernetes.
+- Implemented Kafka and RabbitMQ for asynchronous, event-driven communication.
+- Automated CI/CD pipelines using Jenkins and GitHub Actions.
+- Applied clean architecture, SOLID principles, and design patterns to deliver maintainable, production-quality software.
+- Experienced in developing scalable backend systems using both Java and Python ecosystems.
 
 ---
 
@@ -153,20 +190,22 @@ Jayoti Vidyapeeth Women's University
 
 # 🌱 Currently Learning
 
-* Advanced Spring Boot
-* Spring Cloud
-* Kubernetes
-* System Design
-* Apache Kafka
-* AWS Services
-* Java Performance Tuning
+- Advanced Spring Boot
+- Spring Cloud
+- Python Async Ecosystem
+- FastAPI Advanced Patterns
+- Kubernetes
+- System Design
+- Apache Kafka
+- AWS Services
+- Java Performance Tuning
+- Python Performance Optimization
 
 ---
 
 # 📫 Contact
 
-📧 **Email:** [shailja2029@gmail.com](mailto:shailja2029@gmail.com)
-
+📧 **Email:** **shailja2029@gmail.com**
 
 📍 **Location:** Mumbai, India
 
@@ -174,7 +213,7 @@ Jayoti Vidyapeeth Women's University
 
 # ✨ Philosophy
 
-> I enjoy building scalable, secure, and maintainable software that solves real-world business problems while delivering reliable user experiences.
+> I enjoy building scalable, secure, and maintainable backend systems using Java and Python that solve real-world business problems while delivering reliable, high-performance user experiences.
 
 ---
 
